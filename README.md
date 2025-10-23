@@ -1,4 +1,4 @@
-# Python Prime Sieve Analyzer
+# Prime Sieve Analyzer
 
 This project is a Python tool for the empirical analysis of prime-finding algorithms, implemented for an Algorithms & Data Structures Course. It compares the practical performance (execution time and memory usage) of two key algorithms:
 
